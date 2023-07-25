@@ -142,9 +142,9 @@ void chose3()
     int num;
     cout << "Enter a number: ";
     cin >> num;
-    cout << "-----------------------------" << endl;
+    cout << "-------------------------------" << endl;
     cout << "| ฐาน 2 |" << "      " << setw(5) << right << convert(num, 2) << "      |"<< endl;
-    cout << "-----------------------------" << endl;
+    cout << "-------------------------------" << endl;
 }
 
 void Menu()
